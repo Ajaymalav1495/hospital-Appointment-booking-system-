@@ -1,0 +1,6 @@
+streamlit
+pandas
+pathlib
+collections
+secrets
+streamlit-option-menu
